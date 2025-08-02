@@ -1,9 +1,9 @@
 import Header from "./component/Header";
-import  Sidebar from "./component/sidebar";
+import  Sidebar from "./component/Sidebar";
 import TaskInput from "./component/TaskInput";
 import Task from  "./component/Task"
 import type { TaskCardProps } from "./libs/types";
-import Footer  from "./component/footer";
+import Footer  from "./component/Footer";
 
 
 function App() {
